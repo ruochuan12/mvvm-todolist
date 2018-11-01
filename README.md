@@ -1,2 +1,2 @@
 # mvvm-todolist
-mvvm实现todolist
+mvvm实现简版todolist
